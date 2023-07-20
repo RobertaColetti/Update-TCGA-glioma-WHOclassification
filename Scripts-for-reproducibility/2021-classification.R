@@ -38,7 +38,7 @@ library("RTCGAToolbox")
 
 ## 2nd OPTION: upload our reference dataset
 ## ** comment the lines 41-42 to use the 1st option ** 
-load("~/TCGA-datasets/TCGA-LGG.RData")
+load("~/TCGA-datasets/TCGA-GBM.RData")
 load("~/TCGA-datasets/TCGA-LGG.RData")
 
 GBM_clinic=GBM_clinic[order(GBM_clinic$Patient_ID),] 
