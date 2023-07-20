@@ -43,7 +43,7 @@ library("stringr")
 
 ## 2nd OPTION: upload our reference dataset
 ## ** comment the lines 46-47 to use the 1st option ** 
-load("~/TCGA-datasets/TCGA-LGG.RData")
+load("~/TCGA-datasets/TCGA-GBM.RData")
 load("~/TCGA-datasets/TCGA-LGG.RData")
 GBM_clinic=GBM_clinic[order(GBM_clinic$Patient_ID),] 
 LGG_clinic=LGG_clinic[order(LGG_clinic$Patient_ID),] 
