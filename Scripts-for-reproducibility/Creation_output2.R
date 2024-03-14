@@ -1,4 +1,8 @@
-#Creation of the Output 2:Matrix_WHO2021
+#Creation of the Output2: Matrix_WHO2021 
+#
+# Author: Roberta Coletti
+#
+#
 #This matrix will contains all the glioma samples and 3 columns: the current TCGA histological subtype classes,
 # the nomenclature of the glioma types according to the 2021 WHO CNS guidelines + our simplified labels
 
