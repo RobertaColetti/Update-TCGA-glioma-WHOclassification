@@ -1,4 +1,7 @@
-#Creation of the Output 3: Comparison between the current TCGA histological subtype, and the new 2016 and 2021 WHO classifications of CNS
+#Creation of the Output3: Comparison between the current TCGA histological subtype, and the new 2016 and 2021 WHO classifications of CNS
+#
+# Author: Roberta Coletti
+#
 
 Matrix_WHO2016 <- read.csv("~/Final-outputs/Matrix_WHO2016.csv")
 Matrix_WHO2021 <- read.csv("~/Final-outputs/Matrix_WHO2021.csv")
