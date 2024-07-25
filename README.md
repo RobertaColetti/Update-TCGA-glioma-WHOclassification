@@ -1,6 +1,8 @@
 # Glioma-classification-codes
 Codes for reproducibility of methods in doi: https://doi.org/10.1101/2023.02.19.529134.
 
+All the contents collected in this folder are also available at: https://github.com/sysbiomed/MONET
+
 Files are organised in two folders named “Scripts-for-reproducibility” and “Final-outputs”.
 
 “Scripts-for-reproducibility” contains the two main scripts, "2016-classification.R" and "2021-classification.R", which can be used to reproduce the Method-2016 and Method-2021, respectively. 
